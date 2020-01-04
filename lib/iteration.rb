@@ -40,6 +40,8 @@ def total_even_pairs(src)
   puts total 
 end
 
-find_greater_pair(number_pairs)
 join_ingredients(pizza_topings)
+find_greater_pair(number_pairs)
 total_even_pairs(number_pairs)
+
+# Experiencing issues w/testing (not completing )
