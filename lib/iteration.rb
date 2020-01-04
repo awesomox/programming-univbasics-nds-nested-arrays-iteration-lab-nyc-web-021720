@@ -44,4 +44,4 @@ join_ingredients(pizza_topings)
 find_greater_pair(number_pairs)
 total_even_pairs(number_pairs)
 
-# Experiencing issues w/testing (not completing )
+# Experiencing issues w/testing (won't evaluate past join_ingredients before returning to IRB cmd line); however, the code returns desired results in Repl.it
